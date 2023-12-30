@@ -25,15 +25,19 @@ Answering every type of questions!
 ![image](https://github.com/kazehugo/chatbot-ai/assets/96301950/aea6449c-7e14-4a2c-971e-4db7de2ff4ad)
 
 Write simple code!
+
 <img width="649" alt="Screenshot 2023-12-30 at 20 50 33" src="https://github.com/kazehugo/chatbot-ai/assets/96301950/f4894b54-93bb-4612-abfc-22e54fe3b6eb">
 
 Even chemistry question!
+
 <img width="644" alt="Screenshot 2023-12-30 at 20 54 07" src="https://github.com/kazehugo/chatbot-ai/assets/96301950/84e48ede-d8c3-44ef-a307-8b5d949cb565">
 
 And if you are bored...
+
 <img width="652" alt="Screenshot 2023-12-30 at 20 58 28" src="https://github.com/kazehugo/chatbot-ai/assets/96301950/cb3db918-f8d9-4de0-95df-5881f8fe6077">
 
 And you speak French...
+
 ![image](https://github.com/kazehugo/chatbot-ai/assets/96301950/26c93d6c-04d7-4b35-96f4-816b61de7b12)
 
 # Feedback
