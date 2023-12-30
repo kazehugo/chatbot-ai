@@ -48,5 +48,4 @@ Thank you for utilizing our AI Chatbot for your daily Q&A! We're dedicated to en
 # Install the bot
 To open this template, click open on autocode below:
 
-[<img src="![image](https://github.com/kazehugo/chatbot-ai/assets/96301950/efc7700c-9773-4b42-aa07-3102d5b2922a)
-" width="192">](https://github.com/kazehugo/chatbot-ai)
+[<img src="![image]![image](https://github.com/kazehugo/chatbot-ai/assets/96301950/59af88aa-a9c5-45cc-acf7-b09413a0d896)" width="192">](https://github.com/kazehugo/chatbot-ai)
