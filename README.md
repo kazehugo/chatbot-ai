@@ -46,6 +46,6 @@ We value your experience! Your feedback helps us refine and improve the chatbot'
 Thank you for utilizing our AI Chatbot for your daily Q&A! We're dedicated to enhancing your Discord journey through seamless and intelligent support.
 
 # Install the bot
-To open this template, click open on autocode below:
+To open this template, click open in the space below:
 
 [<img src="![image]![image](https://github.com/kazehugo/chatbot-ai/assets/96301950/59af88aa-a9c5-45cc-acf7-b09413a0d896)" width="192">](https://github.com/kazehugo/chatbot-ai)
