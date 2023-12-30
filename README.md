@@ -28,7 +28,7 @@ Write simple code!
 
 <img width="649" alt="Screenshot 2023-12-30 at 20 50 33" src="https://github.com/kazehugo/chatbot-ai/assets/96301950/f4894b54-93bb-4612-abfc-22e54fe3b6eb">
 
-Even chemistry question!
+Even biochemistry question!
 
 <img width="644" alt="Screenshot 2023-12-30 at 20 54 07" src="https://github.com/kazehugo/chatbot-ai/assets/96301950/84e48ede-d8c3-44ef-a307-8b5d949cb565">
 
