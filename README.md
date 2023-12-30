@@ -1,5 +1,5 @@
-# chatbot-ai
-A bot to answer every questions that you ask in Discord.
+# Introducing QnA Chatbot AI
+A bot to answer every questions that you ask in Discord, developed by Phong (KazeHugo) using GPT 3.5-API from OpenAI, machine learning and open resources.
 
 # Purpose
 This chatbot is specifically crafted to assist users within the Discord platform. It's tailored to provide quick and accurate responses to a wide array of queries related to the world,from coding, version control, issue tracking, repository management, collaborative development, even medical questions to some (sorts of) silly question (Why do the chicken cross the road?)
